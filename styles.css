@@ -116,7 +116,7 @@ main {
     padding: 10px 0;
 }
 
-#quote-btn {
+#fact-btn {
     display: block;
     margin: 5px auto;
     padding: 8px;
@@ -130,14 +130,14 @@ main {
     transition: color 0.2s, background-color 0.2s;
 }
 
-#quote-btn:hover {
+#fact-btn:hover {
     cursor: pointer;
     color: var(--gray1);
     background-color: var(--blue1);
     transition: color 0.2s, background-color 0.2s;
 }
 
-#quote-btn:active {
+#fact-btn:active {
     color: var(--orange1);
     background-color: var(--orange1);
 }
